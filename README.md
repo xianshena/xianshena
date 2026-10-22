@@ -30,7 +30,7 @@ An early project in synthetic scenes, with a low-resource CPU example and record
 | Ablations and audits | History-swap, clear-memory, frozen-data scoring and individual decisions |
 | Open questions | Learned memory writing, real perception and independent replication |
 
-The public repository is being prepared. Results concern synthetic numerical scenes; navigation uses deterministic BFS. The exploratory 4B-teacher / 1.85B-student appendix has no independent test and does not inherit the 308M scores.
+Explore the public repository: [xianshena/memlite](https://github.com/xianshena/memlite). Results concern synthetic numerical scenes; navigation uses deterministic BFS. The exploratory 4B-teacher / 1.85B-student appendix has no independent test and does not inherit the 308M scores.
 
 项目仍处于早期阶段，尚无已核验的外部使用证据。持续记录限制与失败，是我学习过程的一部分。
 
