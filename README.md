@@ -26,7 +26,7 @@ An early project in synthetic scenes, with a low-resource CPU example and record
 | What to inspect | What it covers |
 |---|---|
 | CPU example | Explicit object memory and G0/G1a controls |
-| Three recorded 308M seeds | Daily-choice accuracy: 94.125%, 94.0625%, 94.125% |
+| Three recorded 308M seeds | Daily-choice accuracy (daily subset n=1,600 per seed): 94.125%, 94.0625%, 94.125% |
 | Ablations and audits | History-swap, clear-memory, frozen-data scoring and individual decisions |
 | Open questions | Learned memory writing, real perception and independent replication |
 
