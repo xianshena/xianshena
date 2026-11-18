@@ -6,6 +6,7 @@
 
 | 想理解什么 | 阅读入口 |
 | --- | --- |
+| 小狗记得球在哪吗？同一段历史下，它下一眼会看见什么？ | [视觉记忆实验与世界模型计划](https://github.com/xianshena/puppy-vlm-world-model) |
 | 历史经验如何影响日常选择；3.08 亿参数模型三种子训练 | [MemLite 中文说明](https://github.com/xianshena/memlite/blob/main/README.zh-CN.md) |
 | 训练、部署、量化、RAG、文字/对象记忆等阶段如何衔接 | [已公开实验总目录](https://github.com/xianshena/memlite/blob/main/docs/EXPERIMENTS.zh-CN.md) |
 | 不同指令结构、长程事实、操作顺序与生成对照 | [结构与记忆显微镜阶段入口](https://github.com/xianshena/memlite/blob/main/docs/experiments/microscope-20261027/README.zh-CN.md) |
